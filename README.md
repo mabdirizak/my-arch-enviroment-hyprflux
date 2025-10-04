@@ -1,0 +1,1 @@
+my pc env for arch + hyprland by Hyprflux, you can the original enviroment https://github.com/ahmad9059/HyprFlux
